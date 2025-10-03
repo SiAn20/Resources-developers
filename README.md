@@ -22,11 +22,10 @@ Websites, tools, project ideas, and communities everything in one place to help 
 
 ## Practice & Challenges
 
-| Website | Description |
-| ------- | ----------- |
-
+| Website                                          | Description                                                                                                                                         |
+| ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [CSS Grid Garden](https://cssgridgarden.com/#es) | Complete guide covering various CSS selectors from basic to advanced. Useful resource to quickly reference and master different types of selectors. |
-| [100 Days CSS](https://100dayscss.com/) | Challenge based platform where you can improve your CSS skills by creating a new design every day for 100 days. |
+| [100 Days CSS](https://100dayscss.com/)          | Challenge based platform where you can improve your CSS skills by creating a new design every day for 100 days.                                     |
 
 ## Learning Resources
 
