@@ -5,8 +5,6 @@ Websites, tools, project ideas, and communities everything in one place to help 
 
 ## Index
 
-> dds
-
 - [Design & UI](#design--ui)
 - [Developer Tools](#developer-tools)
 - [Practice & Challenges](#practice--challenges)
@@ -54,12 +52,12 @@ Interactive coding challenges, games, and exercises to improve your programming 
 | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Codédex](https://www.codedex.io/)                           | An interactive coding platform that offers beginner courses in Python, JavaScript, HTML/CSS, and more. Includes hands-on projects, XP-based progression, and community-driven content. |
 | [Code With Curious](https://codewithcurious.com/)            | Hands-on coding challenges and projects to learn algorithms, frontend, backend, and full-stack development.                                                                            |
-| CSS                                                          |
+| **CSS**                                                      | <!-- empty -->                                                                                                                                                                         |
 | [CSS Grid Garden](https://cssgridgarden.com/#es)             | Complete guide covering various CSS selectors from basic to advanced. Useful resource to quickly reference and master different types of selectors.                                    |
 | [100 Days CSS](https://100dayscss.com/)                      | Challenge based platform where you can improve your CSS skills by creating a new design every day for 100 days.                                                                        |
 | [CSS Battle](https://cssbattle.dev/)                         | Fun and technical CSS challenges to sharpen your layout and styling skills.                                                                                                            |
 | [CSS Dinner](https://flukeout.github.io/)                    | An interactive game to master CSS selectors by targeting elements at each level - practice with real-time feedback and progressive challenges.                                         |
-| Angular                                                      |
+| **Angular**                                                  | <!-- empty -->                                                                                                                                                                         |
 | [Angular Challenges](https://angular-challenges.vercel.app/) | A collection of 60 real-world Angular, RxJS, NgRx, and TypeScript challenges designed to improve your framework skills by solving practical problems.                                  |
 
 <div align="right">
